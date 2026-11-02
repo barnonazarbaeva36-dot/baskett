@@ -13,3 +13,7 @@
 ``` html
 <h1>wdwedwed</h1>
 ```
+# Table
+
+| No | Name| Email|
+| 1 | Bill geyts | bill@gmail.com |
